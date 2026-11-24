@@ -18,6 +18,11 @@ license: mit
 **Ataavi-Vision** is an end-to-end, two-stage computer vision system engineered specifically for detecting and classifying Indian avian biodiversity. By pairing **Ultralytics YOLOv8** (for real-time object localization and boundary-clamped margin padding) with **Imageomics BioCLIP** (`open-clip` / `pybioclip` foundation model), the system eliminates noisy background artifacts (dense leaves, water reflections, overcast sky) and performs constrained zero-shot taxonomic inference over diverse Indian bird species (covering pan-Indian ecosystems and Western Ghats / Kerala endemics).
 
 ---
+## 🎥 Live App Demo
+
+
+https://github.com/user-attachments/assets/c8e42f62-4aee-4e72-b366-8e6978e95314
+
 
 ## 🏗️ System Architecture
 
