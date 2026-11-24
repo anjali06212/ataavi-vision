@@ -1,0 +1,212 @@
+[
+  {
+    "common_name": "Indian Roller",
+    "scientific_name": "Coracias benghalensis",
+    "order": "Coraciiformes",
+    "family": "Coraciidae",
+    "habitat": "Open grasslands, agricultural fields, scrub forests"
+  },
+  {
+    "common_name": "Malabar Grey Hornbill",
+    "scientific_name": "Ocyceros griseus",
+    "order": "Bucerotiformes",
+    "family": "Bucerotidae",
+    "habitat": "Dense evergreen rainforests of the Western Ghats"
+  },
+  {
+    "common_name": "White-throated Kingfisher",
+    "scientific_name": "Halcyon smyrnensis",
+    "order": "Coraciiformes",
+    "family": "Alcedinidae",
+    "habitat": "Wetlands, agricultural fields, canals, urban gardens"
+  },
+  {
+    "common_name": "Indian Pitta",
+    "scientific_name": "Pitta brachyura",
+    "order": "Passeriformes",
+    "family": "Pittidae",
+    "habitat": "Dense deciduous and evergreen scrub undergrowth"
+  },
+  {
+    "common_name": "Rufous Treepie",
+    "scientific_name": "Dendrocitta vagabunda",
+    "order": "Passeriformes",
+    "family": "Corvidae",
+    "habitat": "Open dry forests, gardens, woodlands"
+  },
+  {
+    "common_name": "Asian Paradise-Flycatcher",
+    "scientific_name": "Terpsiphone paradisi",
+    "order": "Passeriformes",
+    "family": "Monarchidae",
+    "habitat": "Dense forest canopies, riverine groves, plantations"
+  },
+  {
+    "common_name": "Greater Coucal",
+    "scientific_name": "Centropus sinensis",
+    "order": "Cuculiformes",
+    "family": "Cuculidae",
+    "habitat": "Tall grasslands, marshes, edge scrubs, cultivation"
+  },
+  {
+    "common_name": "Oriental Magpie-Robin",
+    "scientific_name": "Copsychus saularis",
+    "order": "Passeriformes",
+    "family": "Muscicapidae",
+    "habitat": "Open woodlands, gardens, cultivated areas"
+  },
+  {
+    "common_name": "Black Drongo",
+    "scientific_name": "Dicrurus macrocercus",
+    "order": "Passeriformes",
+    "family": "Dicruridae",
+    "habitat": "Agricultural fields, open country, roadside perches"
+  },
+  {
+    "common_name": "Red-whiskered Bulbul",
+    "scientific_name": "Pycnonotus jocosus",
+    "order": "Passeriformes",
+    "family": "Pycnonotidae",
+    "habitat": "Hill forests, secondary growth, suburban gardens"
+  },
+  {
+    "common_name": "Purple Sunbird",
+    "scientific_name": "Cinnyris asiaticus",
+    "order": "Passeriformes",
+    "family": "Nectariniidae",
+    "habitat": "Gardens, open scrub, flowering shrubs, deciduous forests"
+  },
+  {
+    "common_name": "Green Bee-eater",
+    "scientific_name": "Merops orientalis",
+    "order": "Coraciiformes",
+    "family": "Meropidae",
+    "habitat": "Arid grasslands, scrub, cultivated plains, sand dunes"
+  },
+  {
+    "common_name": "Painted Stork",
+    "scientific_name": "Mycteria leucocephala",
+    "order": "Ciconiiformes",
+    "family": "Ciconiidae",
+    "habitat": "Freshwater wetlands, marshes, shallow lakes, river banks"
+  },
+  {
+    "common_name": "Brahminy Kite",
+    "scientific_name": "Haliastur indus",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "habitat": "Coastal plains, estuaries, rivers, mangrove swamps"
+  },
+  {
+    "common_name": "Spotted Owlet",
+    "scientific_name": "Athene brama",
+    "order": "Strigiformes",
+    "family": "Strigidae",
+    "habitat": "Farmland, wooded urban areas, roadside tree hollows"
+  },
+  {
+    "common_name": "Common Kingfisher",
+    "scientific_name": "Alcedo atthis",
+    "order": "Coraciiformes",
+    "family": "Alcedinidae",
+    "habitat": "Clear streams, rivers, ponds, reed beds"
+  },
+  {
+    "common_name": "Rose-ringed Parakeet",
+    "scientific_name": "Psittacula krameri",
+    "order": "Psittaciformes",
+    "family": "Psittaculidae",
+    "habitat": "Urban parks, farmland, orchards, open deciduous forests"
+  },
+  {
+    "common_name": "Coppersmith Barbet",
+    "scientific_name": "Psilopogon haemacephalus",
+    "order": "Piciformes",
+    "family": "Megalaimidae",
+    "habitat": "Urban gardens, grove trees, fruiting banyan canopies"
+  },
+  {
+    "common_name": "Indian Peafowl",
+    "scientific_name": "Pavo cristatus",
+    "order": "Galliformes",
+    "family": "Phasianidae",
+    "habitat": "Undergrowth in deciduous forests, village outskirts"
+  },
+  {
+    "common_name": "Ashy Prinia",
+    "scientific_name": "Prinia socialis",
+    "order": "Passeriformes",
+    "family": "Cisticolidae",
+    "habitat": "Tall grass, reeds, hedgerows, urban shrubbery"
+  },
+  {
+    "common_name": "Jungle Babbler",
+    "scientific_name": "Argya striata",
+    "order": "Passeriformes",
+    "family": "Leiothrichidae",
+    "habitat": "Deciduous forest undergrowth, gardens, thick scrub"
+  },
+  {
+    "common_name": "Red-vented Bulbul",
+    "scientific_name": "Pycnonotus cafer",
+    "order": "Passeriformes",
+    "family": "Pycnonotidae",
+    "habitat": "Scrub forests, urban parks, cultivation edges"
+  },
+  {
+    "common_name": "Little Cormorant",
+    "scientific_name": "Microcarbo niger",
+    "order": "Suliformes",
+    "family": "Phalacrocoracidae",
+    "habitat": "Inland wetlands, village tanks, estuaries, canals"
+  },
+  {
+    "common_name": "Black-winged Kite",
+    "scientific_name": "Elanus caeruleus",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "habitat": "Open grasslands, savannah, cultivated plains"
+  },
+  {
+    "common_name": "Shikra",
+    "scientific_name": "Accipiter badius",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "habitat": "Light forests, farmland with groves, suburban parks"
+  },
+  {
+    "common_name": "Grey Heron",
+    "scientific_name": "Ardea cinerea",
+    "order": "Pelecaniformes",
+    "family": "Ardeidae",
+    "habitat": "Shallow water bodies, marshes, lakes, coastal lagoons"
+  },
+  {
+    "common_name": "Asian Koel",
+    "scientific_name": "Eudynamys scolopaceus",
+    "order": "Cuculiformes",
+    "family": "Cuculidae",
+    "habitat": "Dense foliage in suburban gardens, deciduous canopy"
+  },
+  {
+    "common_name": "Malabar Pied Hornbill",
+    "scientific_name": "Anthracoceros coronatus",
+    "order": "Bucerotiformes",
+    "family": "Bucerotidae",
+    "habitat": "Evergreen and moist deciduous forests, riverine habitats"
+  },
+  {
+    "common_name": "Blyth's Reed Warbler",
+    "scientific_name": "Acrocephalus dumetorum",
+    "order": "Passeriformes",
+    "family": "Acrocephalidae",
+    "habitat": "Shrubberies, hedgerows, reed beds, forest clearings"
+  },
+  {
+    "common_name": "White-bellied Treepie",
+    "scientific_name": "Dendrocitta leucogastra",
+    "order": "Passeriformes",
+    "family": "Corvidae",
+    "habitat": "Evergreen hill forests of the Western Ghats"
+  }
+]
